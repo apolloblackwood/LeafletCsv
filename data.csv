@@ -1,0 +1,249 @@
+No.,Address,City,State,Zip,Description,,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,"Unit Type","Unit Number",City,State,County,Zip,Country,Source
+1,"169 Mohawk Circle",Superior,CO,80027,,"Scott Glenn ",39.953751,-105.176978,1,rooftop,169,"Mohawk Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+2,"7542 W. Coal Creek Drive / #381 and ashes in #1025",Superior,CO,80027,,"Patricia Albertson ",39.953972,-105.175118,1,range_interpolation,7542,"W Coal Creek Dr",#,1025,Superior,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+3,"426 Owl Drive",Louisville,CO,80027,,"Ian Anderson and Gabriella",39.973943,-105.153928,1,rooftop,426,"Owl Dr",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+4,"1011 Arapahoe Circle",Louisville,COLORADO,80439,,"Kim Anderson, John Anderson, and Anderson Trust ",39.977664,-105.16331,0.9,rooftop,1011,"Arapahoe Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+5,"115 Cayauga Way",Superior,CO,80027,,"Elena A. Baca, Maya Jennings, James Jennings, and Jaylen Baca ",39.954668,-105.176409,1,rooftop,115,"Cayauga Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+6,"230 Mohawk Circle",Superior,CO,80027,,"Amy Becker and Erik Lindberg",39.954343,-105.175572,1,rooftop,230,"Mohawk Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+7,"Benchmark Dr",Boulder,CO,80303,,"Benchmark HOA",39.972089,-105.184499,1,street_center,,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"TIGER/Line® dataset from the US Census Bureau"
+8,"622 Discovery Pkwy",Superior,CO,80027,,"Cheryl Brown, Madison N. Brown, Brooke Brown, and Stephen Brown",39.948095,-105.159411,1,rooftop,622,"Discovery Pkwy",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+9,"1100 1/2 Hillside Lane (1117 Hillside Lane)",Louisville,CO,80027,,"Centennial Heights West HOA ",39.971352,-105.166341,0.99,rooftop,1100,"Hillside Ln",,1117,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+10,"957 Sunflower Street",Louisville,CO,80027,,"Aaron Clark, Lindsay Clark, Aden Clark, Axel Clark, and Theresa Ehwald",39.976065,-105.164515,1,rooftop,957,"Sunflower St",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+11,"368 Shawnee Lane",Superior,CO,80027,,"Daniel Cole and Chelsea Cerny",39.956928,-105.17693,1,rooftop,368,"Shawnee Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+12,"137 Mohawk Circle",Superior,CO,80027,,"Sandra Ranee Thomas-Comenole, Michael Comenole, Quentin Leigh Comenole, Kaylan Genevieve Comenole, Madelyn Comenole, and Penelope Comenole",39.95474,-105.17721,1,rooftop,137,"Mohawk Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+13,"435 Blackfoot Street",Superior,CO,80027,,"Heather Conley and Nadim Ferzli",39.957338,-105.176222,1,rooftop,435,"Blackfoot St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+14,"2420 ANDREW DR",Superior,CO,80027,,"Jeffrey Cote and Shannon E Cote",39.931359,-105.162443,1,rooftop,2420,"Andrew Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+15,"5608 Marshall Dr",Boulder,CO,80303,,"Pamela Garland Decker, Daniel L Decker, Richard Decker, Mariah Decker, Mckinley Decker, Malia Decker, and The Decker’s Goose Creek Family Trust",39.954607,-105.223426,1,range_interpolation,5608,"Marshall Dr",,,Boulder,CO,"Boulder County",80303,US,"TIGER/Line® dataset from the US Census Bureau"
+16,"9 Benchmark Dr",Boulder,CO,80303,,"Justin Dick and Joshua Dick",39.969641,-105.186033,1,rooftop,9,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+17,"944 St. Andrews Lane",Louisville,CO,80027,,"Steven Dinstell and Sarah Dinstell",39.95479,-105.152229,1,rooftop,944,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+18,"944 ST ANDREWS LN",LOUISVILLE,CO,80027,,"Kathleen Daly, Kevin Dinstell, Declan Dinstell, and Fiona Dinstell",39.95479,-105.152229,1,rooftop,944,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+19,"2210 Andrew Dr",Superior,CO,80027,,"Dana Briganti-Duckworth, Izabella Duckworth, Noah Duckworth, and Cortney Trent Duckworth",39.933181,-105.164637,1,rooftop,2210,"Andrew Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+20,"1861 Estabrook Way",Superior,CO,80027,,"Leon Elalouf, Stefanie Elalouf, Danielle Elalouf, Ethan Elalouf, and Abbey Elalouf ",39.936374,-105.147754,1,rooftop,1861,"Estabrook Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+21,"1024 Willow Pl",Louisville,CO,80027,,"Westley Elliott and Adriane Turner",39.97739,-105.164861,1,rooftop,1024,"Willow Pl",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+22,"513 Ridgeview Dr",Louisville,COLORADO,80027,,"Kathryn Fidler ",39.963382,-105.158715,1,rooftop,513,"Ridgeview Dr",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+23,"443 E Raintree Court",Louisville,CO,80027,,"Marla Fields, Sienna Fields, and Gregory Mark Fields ",39.969525,-105.136947,1,rooftop,443,"E Raintree Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+24,"474 Fillmore Court",Louisville,CO,80027,,"Jessamine Fitzpatrick, Halley Fitzpatrick, Olivia Fitzpatrick, Lochlan Fitzpatrick, Robert Fitzpatrick",39.974224,-105.152044,1,rooftop,474,"Fillmore Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+25,"1133 W Encalve Circle",Louisville,CO,80027,,"Alex Fontillas",39.973427,-105.168465,1,rooftop,1133,"W Enclave Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+26,"1133 West Enclave Circle",Louisville,COLORADO,80027,,"Jason Fontillas and Michael Fontillas",39.973427,-105.168465,1,rooftop,1133,"W Enclave Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+27,"1133 W Enclave Cir",Louisville,CO,80027,,"Tina Fontillas and Roberto Ursua Fontillas",39.973427,-105.168465,1,rooftop,1133,"W Enclave Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+28,"534 Donn Ct",Boulder,CO,80303,,"John Fruth and Carol Fruth ",39.976456,-105.197547,1,rooftop,534,"Donn Ct",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+29,"554 N Manorwood Lane",Louisville,CO,80027,,"Kevin Galligan and Kay Galligan ",39.962469,-105.150016,1,rooftop,554,"N Manorwood Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+30,"721 ST ANDREWS LN",LOUISVILLE,CO,80027,,"Shana Gerson, Gabriella Gerson, and Dylan Gerson ",39.958521,-105.145874,1,rooftop,721,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+31,"2011 Emerson Lane",Superior,CO,80027,,"Richard Glaab and Catherine Glaab",39.935357,-105.161588,1,rooftop,2011,"Emerson Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+32,"7 Benchmark Dr",Boulder,CO,80303,,"Kenneth Gordon, Patrick Dills, and Hai Yan Zhang",39.970126,-105.187479,1,rooftop,7,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+33,"169 Mohawk Circle",Superior,CO,80027,,"Alesha Rose Green and Evan Green",39.953751,-105.176978,1,rooftop,169,"Mohawk Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+34,"279 S Buchanan Circle",Louisville,COLORADO,80027,,"Gregory Fields dba Fieldscapes LLC ",39.967763,-105.150777,1,rooftop,279,"S Buchanan Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+35,"1025 Willow Pl",Louisville,CO,80027,,"Scott Hafer, Elizabeth Hafer, Jamison Hafer, Theodore Hafer, and Aidan Gilstrap",39.977954,-105.165315,1,rooftop,1025,"Willow Pl",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+36,"633 Eaton Circle",Superior,COLORADO,80027,,"Micheal A Hall, Jacqueline Hall, and Darian Hall",39.935161,-105.159521,1,rooftop,633,"Eaton Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+37,"122 Vista Lane",Louisville,COLORADO,80027,,"Jennifer Hart, Geoffrey Hart, Theodore Hart, Nathaniel Hart, and Makenna Hart",39.970552,-105.157398,1,rooftop,122,"Vista Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+38,"2247 Bristol St",Superior,CO,80027,,"Donald Harvey, Rebekah Harvey, and Mia Harvey",39.932712,-105.163978,1,rooftop,2247,"Bristol St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+39,"2460 Andrew Drive",Superior,CO,80027,,"Lauren Haughey and Kyle Haughey ",39.931114,-105.161731,1,rooftop,2460,"Andrew Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+40,"475 Blackfoot Street",Superior,CO,80027,,"Alexandra Hopper, Avery Hopper, Nova Hopper, Thomas Hopper, and Hopper Limited LLC.",39.956258,-105.17598,1,rooftop,475,"Blackfoot St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+41,"1911 Estabrook Way",Superior,CO,80027,,"Rodney Hunt, Sheila Hunt, and Holly Hunt ",39.936116,-105.147467,1,rooftop,1911,"Estabrook Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+42,"2924 Basil Place",Superior,CO,80027,,"Heather Hunt and Kendal Jenke",39.925969,-105.149208,1,rooftop,2924,"Basil Pl",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+43,"926 Saint Andrews Lane",LOUISVILLE,CO,80027,,"Steven P Jeffers and Carol A Jeffers",39.955564,-105.153397,1,rooftop,926,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+44,"560 Spruce Circle",LOUISVILLE,CO,80027,,"Penny Johnston ",39.976233,-105.150241,1,rooftop,560,"Spruce Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+45,"213 S. 2nd Ave / A201",Superior,CO,80027,,"Patrick F. Kilbride",39.951945,-105.16841,1,rooftop,213,"S 2nd Ave",,A201,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+46,"336 Fox Lane",Superior,CO,80027,,"Jack Y. Kim and Susan Petrie Kim",39.956009,-105.17625,1,rooftop,336,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+47,"1775 Rockview Cir.",Superior,CO,80027,,"Kevin R Kim",39.938532,-105.165539,1,rooftop,1775,"Rockview Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+48,"1117 Hillside Lane",Louisville,COLORADO,80027,,"Jerry Kirkpatrick and Gloria Kirkpatrick",39.972095,-105.166327,1,rooftop,1117,"Hillside Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+49,"210 W William St",Superior,COLORADO,80020,,"Viliam Klein and Suzanne Klein",39.952803,-105.168966,1,rooftop,210,"W William St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+50,"361 Shawnee Lane",Superior,CO,80027,,"Adam Kogler, Dana Kogler, Jacob Kogler, Samson Kogler, and Dylan McKee",39.956724,-105.177332,1,rooftop,361,"Shawnee Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+51,"412.5 3rd Street",Superior,COLORADO,80027,,"Michael Kovanda and Summit Tree and Landscape LLC",39.94962,-105.168992,1,rooftop,412,"S 3rd Ave",,5,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+52,"209 Mohawk Circle",Superior,CO,80027,,"Anna S Kramer and Jeff Kramer",39.954073,-105.176289,1,rooftop,209,"Mohawk Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+53,"364 Fox Lane",Superior,CO,80027,,"Jacqueline Kramer ",39.956935,-105.176254,1,rooftop,364,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+54,"364 Fox Lane",Superior,CO,80017,,"Wendy Kramer ",39.956935,-105.176254,1,rooftop,364,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+55,"901 Saint Andrews Lane",Louisville,CO,80027,,"Susan Kroll, Richard Kroll and the Kroll Susan Revocable Trust",39.956783,-105.151643,1,rooftop,901,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+56,"368 Shawnee Ln",Superior,CO,81621,,"Madison Kuhn ",39.956928,-105.17693,0.9,rooftop,368,"Shawnee Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+57,"304 S. 2nd Ave",Superior,CO,80027,,"Bill Kuntz, Kathleen Kuntz, Cash Kuntz, and Hazel Kuntz",39.951147,-105.167701,1,rooftop,304,"S 2nd Ave",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+58,"731 W Mulberry St",Louisville,CO,80027,,"Kelly M. Landen, Westley Charles Landen, Jay Foster Landen, and Matthew Charles Landen",39.972219,-105.154635,1,rooftop,731,"W Mulberry St",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+59,"1659 Harris Street",Superior,COLORADO,80027,,"Matthew Lay",39.939386,-105.140769,1,rooftop,1659,"Harris St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+60,"1077 Eldorado Drive",Superior,CO,80027,,"Thelma Jean Lay and Samuel Lay",39.932673,-105.154286,1,rooftop,1077,"Eldorado Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+61,"7274 Panorama Drive",Boulder,CO,80303,,"Yihsiung Richard Lin and Siumei Lin",39.972677,-105.182924,1,rooftop,7274,"Panorama Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+62,"4 Benchmark Drive",Boulder,CO,80303,,"BCL D 2020 Trust, SL D 2020 Trust, Benjamin London, Susie London, Raif London, and Lane London",39.971709,-105.186676,1,rooftop,4,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+63,"1785 Vernon Lane",Superior,WA,80027,,"Lori Maltese, Jeff Maltese, and Maltese Family Trust",39.93752,-105.159269,1,rooftop,1785,"Vernon Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+64,"619 Augusta Drive",Louisville,CO,80027,,"Ashley Masin, Jordan Masin-Pusey, and Wesley Masin-Pusey ",39.960007,-105.144109,1,rooftop,619,"Augusta Dr",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+65,"7692 Dyer Road – TOTAL LOSS",Louisville,COLORADO,80027,,"Thomas Mathieson, Eliya Mathieson, Inji Mathieson, Mathieson Roofing Services Corp., and Mathieson Revokable Family Trust",39.961915,-105.173165,1,rooftop,7692,"Dyer Rd",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+66,"943 Larkspur Lane",Louisville,CO,80027,,"Danielle Mathis and Leslie Mathis ",39.974356,-105.163416,1,rooftop,943,"Larkspur Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+67,"1169 Hillside Lane",Louisville,COLORADO,80027,,"Scott McLeod, Lisa McLeod, Ian McLeod, and Colin McLeod",39.97247,-105.167428,1,rooftop,1169,"Hillside Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+68,"7258 Spring Drive",Boulder,COLORADO,80308,,"Lana Mellor, Robert Mellor Sr., Robert Mellor Jr., William Mellor, and Griffin Automotive CO, Inc.",39.972614,-105.183444,1,rooftop,7258,"Spring Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+69,"369 Fox Ln",Superior,CO,80027,,"Adam Miculka, Levi Miculka, Ezra Miculka, and Aimee Miculka ",39.95706,-105.176661,1,rooftop,369,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+70,"2021 Emerson Ln",Superior,CO,80027,,"Melissa Mika, Amanda Mika, and Karen Mika",39.935152,-105.161701,1,rooftop,2021,"Emerson Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+71,"581 AUGUSTA DR",Louisville,CO,80027,,"Armen Minasian, Lauren Wingate, Leo Wingate Minasian, and Luca AJ Minasian",39.961416,-105.143034,1,rooftop,581,"Augusta Dr",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+72,"447 Blackfoot St",Superior,CO,80027,,"Ricardo Miranda, Melissa Miranda, Sophia Miranda, Alina Miranda, Olivia Miranda, and Marina Moreno",39.95732,-105.175686,1,rooftop,447,"Blackfoot St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+73,"335 Cherokee Ave",Superior,CO,80027,,"Matthew Morris and Kathleen Morris ",39.955744,-105.177706,1,rooftop,335,"Cherokee Ave",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+74,"368 Shawnee Ln",Superior,COLORADO,80027,,"Chad Musch",39.956928,-105.17693,1,rooftop,368,"Shawnee Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+75,"212 W William St.",Superior,COLORADO,80027,,"Michael Neustedter, Catherine Neustedter, and Piper Neustedter",39.952804,-105.169138,1,rooftop,212,"W William St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+76,"1114 W ENCLAVE CIR",LOUISVILLE,CO,80027,,"Heikke Nielsen, Jolene Nielsen, Danikka Nielsen, Mikka Nielsen, and Hope Nielsen",39.975364,-105.167277,1,rooftop,1114,"W Enclave Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+77,"5430 Marshall Road",Boulder,CO,80305,,"Ruth Nielsen, Harold Vickery, and The Estate of Mary Vickery",39.955585,-105.226325,1,range_interpolation,5430,"Marshall Rd",,,Boulder,CO,"Boulder County",80305,US,"TIGER/Line® dataset from the US Census Bureau"
+78,"332 Fox Lane",Superior,CO,80027,,"Ainsley Nuhn, Caden Cone, and Kyle Havlick",39.955873,-105.176249,1,rooftop,332,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+79,"1021 Turnberry Circle",Louisville,CO,80027,,"Elayne Oligschlaeger ",39.954485,-105.155355,1,rooftop,1021,"Turnberry Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+80,"1153 Hillside Court",Louisville,CO,80027,,"Clinton B Olson, Ileane Feller Olson, and Julia Lyn Olson",39.972121,-105.166832,1,rooftop,1153,"Hillside Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+81,"989 Monarch Way",Superior,CO,80027,,"Tess Pace, Daniel Pace, Gage Pace, Cruz Pace, Oaks Pace, West Pace",39.933455,-105.155387,1,rooftop,989,"Monarch Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+82,"751 W. Dahlia St",Louisville,CO,80027,,"Zachary Parris, Hannah Parris, and Zelma Parris",39.968803,-105.154953,1,rooftop,751,"W Dahlia St",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+83,"2011 Estabrook way",Superior,CO,80027,,"Wendy Jane Pearson and Hans Brooke Pearson",39.935163,-105.146863,1,rooftop,2011,"Estabrook Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+84,"1039 Willow Pl.",Louisville,CO,80027,,"Michael Peterson, Emily Peterson, Zoe Peterson, and Madeline Peterson",39.976647,-105.165328,1,rooftop,1039,"Willow Pl",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+85,"357 Fox Lane",Superior,CO,80027,,"Christian Petty ",39.956677,-105.176662,1,rooftop,357,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+86,"473 Muirfield Circle",Louisville,CO,80027,,"Randy Pinto, Lynne Pinto, Melanie Pinto, and Samantha Pinto",39.955393,-105.151088,1,rooftop,473,"Muirfield Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+87,"1035 Willow Place",Louisville,CO,80027,,"Colin Pouchet, Mayumi Pouchet, and Mira Pouchet",39.977031,-105.165454,1,rooftop,1035,"Willow Pl",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+88,"1037 Willow PL",Louisville,COLORADO,80027,,"Richard J. Ratajczyk, Ruta J. Ratajczyk, and Nicholas Ratajczyk",39.976817,-105.165425,1,rooftop,1037,"Willow Pl",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+89,"1362 Golden Eagle Way / unit 2106",Louisville,CO,80027,,"Alicia B. Dunn, Brooklyn N. Dunn, Maureen Rinke, and Maureen A. Rinke Trust",39.992907,-105.124935,1,rooftop,1362,"Golden Eagle Way",Unit,2106,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+90,"2360 Andrew Dr",Superior,CO,80027,,"Superior Living Trust, Mohammad T Rusta, and Maria G Rusta ",39.93189,-105.16327,1,rooftop,2360,"Andrew Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+91,"990 Arapahoe Cir",Louisville,CO,80027,,"Matthew Sandler, Jennifer Sandler, Leo Sandler, and Micah Sandler",39.976632,-105.163609,1,rooftop,990,"Arapahoe Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+92,"855 W Dillon Road / C301 ",Louisville,CO,80027,,"Christine Schanne and Daniel Alexander Cook",39.959549,-105.157446,1,rooftop,855,"W Dillon Rd",Apt,C301,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+93,"359 S Jefferson Ave",Louisville,CO,80027,,"Lynn Coppess Pendleton, William Alden Schuler, Noah Pendleton Schuler, and Alden George Schuler ",39.96623,-105.136947,1,rooftop,359,"S Jefferson Ave",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+94,"1152 W Enclave Cir / 1152 W Enclave Cir",Louisville,CO,80027,,"Amy C.G. Schutz, Joshua Schutz, Christopher Schutz, and James B Schutz",39.974742,-105.16717,1,rooftop,1152,"W Enclave Cir",,1152,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+95,"213 Mohawk Circle / 213 Mohawk Circle",Superior,CO,80027,,"Jill LouAnn Sellars",39.954137,-105.176102,1,rooftop,213,"Mohawk Cir",,213,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+96,"213 Mohawk Circle",Superior,COLORADO,80027,,"Steven Sellars",39.954137,-105.176102,1,rooftop,213,"Mohawk Cir",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+97,"486 owl Dr",Louisville,CO,80027,,"Amy Sembower ",39.9746,-105.153425,1,rooftop,486,"Owl Dr",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+98,"411 3rd Ave",Superior,CO,80027,,"Richard Shimizu, Kyra Shimizu, Tamlyn Shimizu, and Shimizu Kyra Falen & Richard John Revocable Trust",39.949763,-105.169717,1,rooftop,411,"S 3rd Ave",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+99,"487 Muirfield Court",Louisville,COLORADO,80027,,"Pietro Corrado Simonetti, Catherine Elaine Simonetti, and Isabella Elaine Simonetti ",39.955978,-105.15045,1,rooftop,487,"Muirfield Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+100,"144 Vaquero Dr",Boulder,CO,80303,,"Deborah K Singer and Christof P Singer",39.983908,-105.178547,1,rooftop,144,"Vaquero Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+101,"10 Benchmark Dr",Boulder,COLORADO,80303,,"David Skogmo, Linda Skogmo, and The David and Linda Skogmo Trust",39.970161,-105.185424,1,rooftop,10,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+102,"10 Benchmark",Boulder,CO,80303,,"Matthew Skogmo and Nichole Skogmo",39.970161,-105.185424,1,rooftop,10,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+103,"1504 Aster Ct",Superior,CO,80027,,"Alison M Smits-Milnes, Robert Smits, and Francis Smits ",39.923188,-105.148551,1,rooftop,1504,"Aster Ct",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+104,"961 Sunflower Street",Louisville,CO,80027,,"Steven Warren Sorensen, Gunilla Sorensen, and Daniel Sorensen",39.975911,-105.164545,1,rooftop,961,"Sunflower St",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+105,"956 St Andrews Ln",Louisville,COLORADO,80027,,"David Sweedler, Jennifer Frayher, Irina Sweedler, and Rory Sweedler",39.955096,-105.150759,1,rooftop,956,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+106,"1392 Eldorado Dr",Superior,CO,80027,,"Steven Tan, Susan Tan, Tyler Tan, Kyle Tan, and Ariana Tan",39.932248,-105.150078,1,rooftop,1392,"Eldorado Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+107,"1029 Paragon Dr",Boulder,CO,80303,,"Joel Thompson and Andrea Brening",39.977156,-105.182867,1,rooftop,1029,"Paragon Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+108,"428 Promenade Dr",Superior,CO,80027,,"Rachael Jane Tittle, Andrew Tittle, and William Tittle",39.950239,-105.160512,1,rooftop,428,"Promenade Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+109,"930 Arapahoe Cir",Louisville,CO,80027,,"Alexander Lee West, Marge M. West, and Terry L West",39.975431,-105.162752,1,rooftop,930,"Arapahoe Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+110,"954 Saint Andrews Lane",Louisville,CO,80027,,"Katie S Wilkerson, Brian Wilkerson, Margaret S Wilkerson, Connor D Wilkerson, and Anna D Wilkerson",39.955032,-105.150995,1,rooftop,954,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+111,"9 Benchmark Dr.",Boulder,COLORADO,80303,,"Scott Wilkinson ",39.969641,-105.186033,1,rooftop,9,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+112,"9 Benchmark Dr.",Boulder,CO,80303,,"Martin R. Wilkinson, Virginia H. Wilkinson, and Martin Wilkinson Stamps and Supplies, Inc.",39.969641,-105.186033,1,rooftop,9,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+113,"364 Fox Lane",Superior,CO,80027,,"Mark Zwiebel ",39.956935,-105.176254,1,rooftop,364,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+114,"502 center drive / M",superior,CO,80027,,"Cactus Wax Studio LLC. (Wendy Pearson, Owner)",39.968121,-105.167758,0.8,street_center,,"Century Dr",,,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+115,"674 W. Sandbar Circle",Louisville,COLORADO,80027,,"Christina Alderson, Charles Alderson",39.972641,-105.153337,1,rooftop,674,"W Sandbar Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+116,"2183 Cliffrose Lane",Louisville,CO,80027,,"Tamsyn Anderson and Timothy Anderson",39.991341,-105.145705,1,rooftop,2183,"Cliffrose Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+117,"1362 Eldorado Drive",Superior,CO,80027,,"Warren C. Archer, Heidi A Archer, Katherine N. Archer, and Emily G. Archer ",39.932244,-105.150584,1,rooftop,1362,"Eldorado Dr",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+118,"868 W. Mulberry Street",Louisville,CO,80027,,"Jordan Ellerington, Terri Ellerington, Caden Ellerington , and Wesley Ellerington",39.969513,-105.158718,1,rooftop,868,"W Mulberry St",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+119,"111 Cayauga Way",Superior,COLO,80027,,"Michael Finnesy, Glinda Shultz, and Michael B. Finnesy Living Revocable Trust",39.95467,-105.176237,1,rooftop,111,"Cayauga Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+120,"7714 Dyer Rd",Louisville,CO,80027,,"Fallon Voorheis-Mathews, William Fleetwood Mathews, In the Wings, LLC., and Dilate LLC.",39.962173,-105.17259,1,rooftop,7714,"Dyer Rd",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+121,"123 Skyview Ct",Louisville,COLORADO,80027,,"Daniel Medeiros, Kristin White, Adam Medeiros, Liam Medeiros, Amelie Medeiros, Ben Medeiros, and Breck Medeiros",39.971069,-105.158622,1,range_interpolation,123,"Skyview Ct",,,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+122,"651 St Andrews Ln",Louisville,CO,80027,,"Tami Boehle-Satterfield and Timothy S. Satterfield",39.959064,-105.144556,1,rooftop,651,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+123,"4305 W. 110th Place ",Westminster,CO,80031,,"Steven Barr, Kierra Littlejohn, Shia Littlejohn ",39.894447,-105.04047,1,rooftop,4305,"W 110th Pl",,,Westminster,CO,"Adams County",80031,US,Adams
+124,"7542 W. Coal Creek Drive / Units 1204, 1205, 1206, and 1207",Superior,CO,80027,,"Mark Browarsky, To Golf, Inc., ",39.953972,-105.175118,1,range_interpolation,7542,"W Coal Creek Dr",,1206,Superior,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+125,"1100, 1116, 1124 West Dillion Road",Louisville,COLORADO,80027,,"MG Real Estate, LLC, Wigtow Properties, LLC, Compassionate pain Management, LLC",39.960687,-105.162507,0.9,range_interpolation,1100,"W Dillon Rd",,1124,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+126,"750 Saint Andrew Lane",Louisville,CO,80027,,"Lorie Roch-Moreno, Stephen Roch W. Roch, Stephen T.F. Roch, Christian Roch, Lincoln Roch, Stephen W. Roch as trustee for The SLR Living Trust.",39.957658,-105.146514,1,rooftop,750,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+127,"10 Benchmark Drive",Boulder,CO,80303,,"Casey Dunning, James Dunning, Zoe Dunning, Lucas Dunning, ",39.970161,-105.185424,1,rooftop,10,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+128,"1850 Centaur Circle",Louisville,CO,80026,,"Deborah Fahey, David Fahey ",39.980021,-105.11376,1,rooftop,1850,"Centaur Cir",,,Lafayette,CO,"Boulder County",80026,US,"Boulder (Boulder County, CO)"
+129,"7542 W. Coal Creek Drive / Unit 1024",Superior,CO,80027,,"Jabez Hart ",39.953972,-105.175118,1,range_interpolation,7542,"W Coal Creek Dr",Unit,1024,Superior,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+130,"352 Troon Ct",Louisville,CO,80027,,"Daniel Lauterbach, Caroline Lauterbach, Jared Lauterbach.",39.95448,-105.149244,1,rooftop,352,"Troon Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+131,"896 Larkspur Court",Louisville,CO,80027,,"Igal Megory-Cohen, Aharon Megory-Cohen, Moshe Megory-Cohen, Rosalba Megory",39.974657,-105.162153,1,rooftop,896,"Larkspur Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+132,"468 Blackfoot Street",Superior,CO,80027,,"James Richwine, Jaime Richwine, Kalei Richwine, Aubri Richwine, Hearing Aid 911 LLC. ",39.956527,-105.175585,1,rooftop,468,"Blackfoot St",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+133,"472 Catalpa Ct",Louisville,CO,80027,,"Andrejs Rozitis, Jessica Rozitis, Levi Rozitis, Elise Rozitis.",39.975744,-105.145945,1,rooftop,472,"Catalpa Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+134,"111 Cayuga Way",Superior,CO,80027,,"Ashley Stringham, Jerald Shaffer, Dylan Shaffer ",39.95467,-105.176237,1,rooftop,111,"Cayauga Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+135,"911 Saint Andrews Lane",Louisville,CO,80027,,"Jennifer H Strand, David Strand",39.956441,-105.152533,1,rooftop,911,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+136,"308 w maple street",superior,COLORADO,80027,,"Jason Tarves, Meadow Tarves/Youthbar MedSpa, Hunter Tarves, Dillon Tarves, Caden Tarves, Ava Tarves, Ivan Tarves",39.954902,-105.169374,1,range_interpolation,308,"W Maple St",,,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+137,"1850 Centaur Circle",Louisville,CO,80026,,"Peter Wade ",39.980021,-105.11376,1,rooftop,1850,"Centaur Cir",,,Lafayette,CO,"Boulder County",80026,US,"Boulder (Boulder County, CO)"
+138,"332 Fox Lane",Superior,COLORADO,80027,,"Mary A Williamson, Mary A. Williamson as trustee for Mary A. Williamson GST Exempt Trust",39.955873,-105.176249,1,rooftop,332,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+139,"576 spruce circle",Louisville,CO,80027,,"Mayank Anjaria, Anita Anjaria, ",39.974816,-105.150447,1,rooftop,576,"Spruce Cir",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+140,"911 Saint Andrews Lane",Louisville,CO,80027,,"Jennifer H Strand, Jennifer H Strand",39.956441,-105.152533,1,rooftop,911,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+141,"750 Saint Andrew Lane",Louisville,CO,80027,,"SLR Living Trust",39.957658,-105.146514,1,rooftop,750,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+142,"352 Troon Ct",Louisville,CO,80027,,"Daniel Lauterbach, Caroline Lauterbach, Jared Lauterbach",39.95448,-105.149244,1,rooftop,352,"Troon Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+143,"721 ST ANDREWS LN",LOUISVILLE,CO,80027,,"SHANA GERSON ",39.958521,-105.145874,1,rooftop,721,"St Andrews Ln",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+144,"896 Larkspur Court",Louisville,CO,80027,,"Rosalba Megory",39.974657,-105.162153,1,rooftop,896,"Larkspur Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+145,"896 Larkspur Court",Louisville,CO,80027,,"Igal Megory-Cohen, Aharon Megory-Cohen, Moshe Megory-Cohen",39.974657,-105.162153,1,rooftop,896,"Larkspur Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+146,"1100 1/2 Hillside Lane (1117 Hillside Lane)",Louisville,CO,80027,,"Centennial Heights West HOA",39.971352,-105.166341,0.99,rooftop,1100,"Hillside Ln",,1117,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+147,"2011 Emerson Lane",Superior,CO,80027,,"Richard Glaab, Catherine Glaab, Richard Glaab",39.935357,-105.161588,1,rooftop,2011,"Emerson Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+148,"5445 Marshall Road",Boulder,CO,80305,,"Ruth Nielsen, Harold Vickery",39.955646,-105.224894,1,range_interpolation,5445,"Marshall Rd",,,Boulder,CO,"Boulder County",80305,US,"TIGER/Line® dataset from the US Census Bureau"
+149,"5430 Marshall Road",Boulder,CO,80305,,"Ruth Nielsen, Harold Vickery",39.955585,-105.226325,1,range_interpolation,5430,"Marshall Rd",,,Boulder,CO,"Boulder County",80305,US,"TIGER/Line® dataset from the US Census Bureau"
+150,"123 Skyview Ct",Louisville,COLORADO,80027,,"Daniel Medeiros, Kristin White, Adam Medeiros, Liam Medeiros, Amelie Medeiros, Ben Medeiros, Breck Medeiros",39.971069,-105.158622,1,range_interpolation,123,"Skyview Ct",,,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+151,"111 Cayauga Way",Superior,COLO,80027,,"Michael Finnesy",39.95467,-105.176237,1,rooftop,111,"Cayauga Way",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+152,"7542 W. Coal Creek Drive / Units 1204, 1205, 1206, and 1207",Superior,CO,80027,,"Mark Browarsky, To Golf, Inc.",39.953972,-105.175118,1,range_interpolation,7542,"W Coal Creek Dr",,1206,Superior,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+153,"10 Benchmark Drive",Boulder,CO,80303,,"Casey Dunning, James Dunning, Zoe Dunning, Lucas Dunning, , , James E Dunning",39.970161,-105.185424,1,rooftop,10,"Benchmark Dr",,,Boulder,CO,"Boulder County",80303,US,"Boulder (Boulder County, CO)"
+154,"332 Fox Lane",Superior,CO,80027,,"Ainsley Nuhn, Caden Cone, Kyle Havlick, Ainsley Nuhn",39.955873,-105.176249,1,rooftop,332,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+155,"1100, 1116, 1124 West Dillion Road",Louisville,COLORADO,80027,,"MG Real Estate, LLC, Wigotow Properties, LLC, Compassionate pain Management, LLC",39.960687,-105.162507,0.9,range_interpolation,1100,"W Dillon Rd",,1124,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+156,"1100 West Dillion Road / Unit D3",Louisville,CO,80027,,"Compassionate Pain Management, LLC",39.960687,-105.162507,0.9,range_interpolation,1100,"W Dillon Rd",Ste,3,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+157,"332 Fox Lane",Superior,COLORADO,80027,,"Mary A Williamson",39.955873,-105.176249,1,rooftop,332,"Fox Ln",,,Superior,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+158,"7692 Dyer Road",Louisville,COLORADO,80027,,"Thomas Mathieson, Eliya Mathieson, Inji Mathieson, Mathieson Roofing Services Corp., Mathieson Revokable Family Trust",39.961915,-105.173165,1,rooftop,7692,"Dyer Rd",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+159,"308 w maple street",superior,COLORADO,80027,,"Jason Tarves, Meadow Tarves/Youthbar MedSpa, Hunter Tarves, Dillon Tarves, Caden Tarves, Ava Tarves, Ivan Tarves",39.954902,-105.169374,1,range_interpolation,308,"W Maple St",,,Louisville,CO,"Boulder County",80027,US,"TIGER/Line® dataset from the US Census Bureau"
+160,"472 Catalpa Ct",Louisville,CO,80027,,"Andrejs Rozitis, Jessica Rozitis, Levi Rozitis, Elise Rozitis",39.975744,-105.145945,1,rooftop,472,"Catalpa Ct",,,Louisville,CO,"Boulder County",80027,US,"Boulder (Boulder County, CO)"
+161,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+162,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+163,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+164,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+165,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+166,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+167,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+168,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+169,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+170,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+171,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+172,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+173,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+174,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+175,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+176,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+177,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+178,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+179,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+180,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+181,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+182,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+183,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+184,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+185,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+186,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+187,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+188,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+189,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+190,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+191,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+192,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+193,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+194,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+195,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+196,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+197,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+198,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+199,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+200,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+201,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+202,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+203,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+204,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+205,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+206,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+207,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+208,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+209,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+210,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+211,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+212,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+213,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+214,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+215,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+216,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+217,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+218,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+219,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+220,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+221,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+222,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+223,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+224,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+225,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+226,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+227,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+228,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+229,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+230,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+231,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+232,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+233,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+234,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+235,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+236,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+237,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+238,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+239,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+240,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+241,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+242,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+243,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+244,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+245,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+246,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+247,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
+248,,,,,,,0,0,0,,"The query parameter is an empty string. Please supply a valid address.",,,,,,,,,
