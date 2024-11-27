@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic Leaflet Map</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+    <style>
+        html,
+        body,
+        #map {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #description-box {
+            font-family: 'Montserrat', sans-serif;
+            /* Use Montserrat font */
+            font-size: 14px;
+            /* Adjust size if needed */
+            color: #333;
+            max-width: 300px;
+            word-wrap: break-word;
+            line-height: 1.5;
+            border: 1px solid #ccc;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="description-box"
+        style="position: absolute; top: 10px; right: 10px; z-index: 1000; background: white; padding: 10px; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.5); display: none;">
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
+    <script>
+        // Initialize the map
+        var map = L.map('map').setView([0, 0], 2);
+
+        // Add a tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19
+        }).addTo(map);
+
+        // Define a smaller custom icon
+        var smallIcon = L.icon({
+            iconUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-icon.png',
+            iconSize: [16, 25],
+            iconAnchor: [8, 25],
+            popupAnchor: [0, -20]
+        });
+
+        // Select the description box
+        var descriptionBox = document.getElementById("description-box");
+
+        // Parse the CSV file and add markers
+        Papa.parse("data.csv", {
+            download: true,
+            header: true,
+            complete: function (results) {
+                var data = results.data;
+
+                // Collect all coordinates
+                var coordinates = [];
+                data.forEach(function (row) {
+                    if (row.Latitude && row.Longitude) {
+                        var lat = parseFloat(row.Latitude);
+                        var lng = parseFloat(row.Longitude);
+
+                        if (!isNaN(lat) && !isNaN(lng)) {
+                            coordinates.push([lat, lng]);
+
+                            // Create a marker
+                            var marker = L.marker([lat, lng], { icon: smallIcon }).addTo(map);
+
+                            // Prepare the content to show in the description box
+                            var descriptionContent = `
+                        <strong>Address:</strong> ${row.Address || "N/A"}<br>
+                        <strong>City:</strong> ${row.City || "N/A"}<br>
+                        <strong>Description:</strong> ${row.Description || "No description available"}
+                    `;
+
+                            // Add hover (mouseover) event
+                            marker.on('mouseover', function () {
+                                descriptionBox.innerHTML = descriptionContent; // Set the content
+                                descriptionBox.style.display = "block"; // Show the box
+                            });
+
+                            // Add mouseout event to hide the box
+                            marker.on('mouseout', function () {
+                                descriptionBox.style.display = "none"; // Hide the box
+                            });
+                        }
+                    }
+                });
+
+                // Fit the map to the bounds of all points
+                if (coordinates.length > 0) {
+                    var bounds = L.latLngBounds(coordinates);
+                    map.fitBounds(bounds);
+                }
+            }
+        });
+
+
+    </script>
+</body>
+
+</html>
